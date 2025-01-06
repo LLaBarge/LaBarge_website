@@ -31,7 +31,3 @@ leaflet(width = "100%") %>%
 -------------------
 
 ![](images/clipboard-4059338225.png)
-
-```{r}
-usethis::use_github()
-```
