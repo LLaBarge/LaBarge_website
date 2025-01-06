@@ -1,0 +1,41 @@
+---
+title: "Research Interests"
+format: html
+css: style.css
+editor: visual
+execute:
+  echo: false
+  about:
+  template: 
+page-layout: full
+---
+
+As a behavioral ecologist my interests focus strongly on interactions between individual animals and their competitors and predators. I'm interested in how humans can reshape ecological webs through changes in animal behavior and how we can mitigate these effects to better coexist with wildlife.
+
+FEAR ECOLOGY
+
+Fear of predators can strongly affect animal decision-making. Most recently I tested ABRs with Andy Allan (Leverhulme Research Fellow, Durham University) to investigate whether the colonization of the large northeastern coyote has maintained a fear of canids where Algonquin wolves are now extirpated in the Adirondack mountains of NY.
+
+![A large northeastern coyote in the Huntington Wildlife Forest (a part of SUNY-ESF) in Newcomb, NY](images/IMG_0005(1).gif){alt="A large northeastern coyote in the Huntington Wildlife Forest (a part of SUNY-ESF) in Newcomb, NY"}
+
+In South Africa, my work with samango monkeys focused heavily on their spatial, behavioral, and physiological responses to predators like crowned eagles and leopards. I conducted field experiments with recorded video (LaBarge et al. 2021, [Behavioral Ecology and Sociobiology](https://link.springer.com/article/10.1007/s00265-020-02959-1)) and used GPS data to investigate if animals avoided areas where they had previously encountered predators and if they behaved as a more spatially cohesive group upon returning to 'dangerous' places (LaBarge et al. 2020, [Animal Behavior](https://www.sciencedirect.com/science/article/abs/pii/S0003347220300658)). I also found evidence that humans are modulating these fear responses and that our presence may be limiting these natural encounters (LaBarge et al. 2022, [Hormones and Behavior](https://www.sciencedirect.com/science/article/abs/pii/S0018506X22001313))
+
+![](images/groom leg.jpeg)
+
+INDIVIDUAL BEHAVIOR
+
+Wildlife populations are made up of heterogeneous individuals who differ
+in traits such as body size, reproductive status, age, behavioural tendencies
+(e.g., due to latent personality traits), and sex. The role inter-individual
+variation plays in predator community interactions has been studied in
+micro/mesocosms, but less so for animals inhabiting natural environments.
+While some research does show that many individual predators specialise in
+certain prey species, most wildlife research still overlooks how phenotypic
+variation might impact natural behavioural patterns and ecological dynamics. Within-species phenotypic and behavioural diversity may also help explain variation in individuals’ abilities to be resilient to human presence and rapid
+environmental change. I'm especially interested in how individual traits can lead to individuals fulfilling distinct ecological roles (see: ["Keystone Individuals - – linking predator traits to community ecology" in Trends in Ecology and Evolution](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00166-6#articleInformation)). This work is conducted in collaboration with Andy Allan of Durham University.
+
+![Along with more commonly considered individual traits (e.g., body size and reproductive status), specific personality traits should govern individual behavior, including interactions with other species.](images/Figure 1 TREE.png)
+
+SOCIAL LIVING AND VIOLENT INTERGROUP CONFLICT
+
+Living in a social group can provide individuals with safety and foraging benefits - but also comes with substantial costs. Sometimes individual interests conflict with the group (e.g., decisions of when to forage, rest, etc.) and in other cases, conflict within a group or between social groups can threaten individual survival and future reproductive success. Violent extra-group encounters can be particularly dangerous in certain species so the maintenance of these behaviours across diverse taxa is still largely a mystery. i am now working on these questions with Michael Cant's group at the University of Exeter Centre for Ecology and Conservation at his long-term field site in Uganda's Queen Elizabeth National Park.

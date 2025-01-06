@@ -1,0 +1,33 @@
+---
+title: "  "
+format: html
+page-layout: full
+css: style.css
+editor: visual
+execute:
+  echo: false
+  about:
+  template: 
+
+---
+
+![](images/IMG_0562.jpg)
+
+I'm a behavioural and spatial ecologist whose work mostly focuses on wild carnivores and primates. Most of my fieldwork has been in Southern Africa in the **Soutpansberg mountains** and in North America in the Adirondack mountains. I use sensors and tools from movement ecology, camera traps, field experiments, and direct observation to explore wildlife behaviour in natural settings. I have a **PhD in Evolution, Ecology and Behavior** (The State University of New York, 2016-2021) and previously was a Postdoctoral Researcher with **The Max Planck Institute of Animal Behavior**. I am now working as a postdoc at the **University of Exeter Centre for Ecology and Conservation** on the long-term banded mongoose project in Uganda's Queen Elizabeth National Park.
+
+**Where I work:**
+
+```{r}
+library(leaflet)
+
+leaflet(width = "100%") %>%
+  addTiles() %>% # Add default OpenStreetMap map tiles
+  addMarkers(lng =   29.895558, lat = -0.196941, popup = "Queen Elizabeth National Park")%>% 
+  addMarkers(lng =  29.440793, lat =-23.038676, popup = "Lajuma Research Centre")%>%
+ addMarkers(lng =  -74.229857, lat = 44.003967, popup = "Huntington Wildlife Forest") %>%
+  addProviderTiles(providers$Esri.NatGeoWorldMap)
+```
+
+-------------------
+
+![](images/clipboard-4059338225.png)

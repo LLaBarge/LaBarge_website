@@ -1,0 +1,115 @@
+---
+title: "About/CV"
+format: html
+image: images/Screenshot 2025-01-04 184148.png
+page-layout: full
+about: 
+  template: solana
+  links:
+    - icon: bluesky
+      text: BlueSky
+      href: https://bsky.app/profile/laurarlabarge.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/LLaBarge
+    - icon: orcid
+      text: Orcid
+      href: https://orcid.org/0000-0001-7319-0157
+
+---
+Laura LaBarge is a postdoctoral scientist with the Centre for Ecology and Conservation at the University in Exeter. Based in Cornwall, England, Laura's research is focused on wildlife living in remote places. She currently conducts fieldwork in the Queen Elizabeth National Park on the long-term banded mongoose project in western Uganda. She spent years living in the Soutpansberg mountains of South Africa in the Afromontane mist-belt forests working with Durham University's (UK) Primate and Predator Project based in a remote mountainous area north of Louis Trichardt (Makhado), Limpopo. Laura conducted her PhD research on site with sporatic teaching assignments in New York. During the pandemic she then worked remotely in collaboration with two NGOs - the Centre for Conservation Innovation at Defenders of Wildlife and Panthera - to investigate the keystone and ecosystem engineer roles of mountain lions (puma) across the Americas. In 2021 she then moved to Germany to work as a Postdoctoral Researcher with the Max Planck Institute of Animal Behavior in Konstanz. In 2024 she moved to the UK but continued as an MPI Guest Scientist and conducted research in the Adirondack mountains of New York. She holds a BSc in Biology from SUNY-ESF with a minor in Applied Statistics.
+
+Outside of work I love painting (acrylic or oil), reading and hoarding books, weightlifting, and long-distance hiking (especially mountains)
+---
+
+EXPERIENCE
+
+University of Exeter \| Centre for Ecology and Conservation \| Cornwall UK & QENP Uganda \| Postdoc 2025-
+
+Max Planck Institute of Animal Behavior \| Guest Scientist \| 2024
+
+Max Planck Institute of Animal Behavior \| Postdoctoral Scientist \| Konstanz DE \| 2021-23
+
+Centre for Conservation Innovation & Dept. of Field Conservation \| Defenders of Wildlife \| Affiliate (remote) \| 2020
+
+State University of New York \| PhD Candidate & Presidential Fellow \| Amherst NY & Makhado South Africa \| 2016-21
+
+Durham University \| Primate and Predator Project \| Field Research Assistant \| Lajuma Research Centre Makhado South Africa \| 2015
+
+Rosamond Gifford Zoo \| Education Programs Animal Keeper \| Syracuse NY USA \| 2011-2014 (half year)
+
+SUNY-ESF \| Ranavirus Disease Ecology Project \| Tully Memorial Forest NY USA \| Field Assistant \| 2014 (part-time)
+
+The State University of New York \| College of Environmental Science and Forestry \| BSc in Biology major concentration in Conservation Biology & minor in Applied Statistics \| 2011-2015
+
+Contact: lrlabarge\@gmail.com
+
+Pronouns: She/her; US Citizen & UK visa-holder
+
+AWARDS/FUNDING
+
+2016-2020 Presidential Fellowship, College of Arts & Sciences, SUNY, University at Buffalo \$30K
+
+2018 L. B. S. Leakey Foundation Research Grant \$9560
+
+2018 Animal Behavior Society Research Grant \$680
+
+2018 Exploration Fund Grant, The Explorer’s Club \$2800
+
+2018 Mark Diamond Research Fund Grant, University at Buffalo \$3500
+
+2017 University at Buffalo EEB Travel Award \$500
+
+2017 Rosamond Gifford Zoo Conservation Fund, Equipment Funding \$250
+
+2017 National Science Foundation GRFP, Honorable Mention
+
+2013, 2014 College Honors Research Grant \$5000
+
+PEER-REVIEWED PUBLICATIONS
+
+Allan, A.T.L, **LaBarge, L. R**., Bailey, A. L., Jones, B., Mason, Z., Pinfield, T., Schröder, F., Whitaker, A., White, A., Wilkinson, H. Hill, R.A. Behavioural compatibility, not fear, best predicts the looking patterns of chacma baboons. Communications Biology 7(980), <https://www.nature.com/articles/s42003-024-06657-w>
+
+**LaBarge, L. R**.\* Krofel, M. Allen, M, Hill, R. A., Welch, A and Allan A. T. L.\* Keystone individuals – the consequences of personality for predator community ecology. Trends in Ecology and Evolution. <https://doi.org/10.1016/j.tree.2024.07.001>
+
+\*equal contribution
+
+Allen, M. L, Kammin, L., **LaBarge, L. R.** First documentation of a fisher (Pekania pennanti) in Illinois in living memory. The Prairie Naturalist, 56, 15–19 <https://www.eaglehill.us/prnaonline/access-pages/PRNA-56/035-Allen-accesspage.shtml>
+
+van Noordwijk, M.A., **LaBarge, L.R.,** Kunz, J.A., Marzec, A.M., Spillmann, B., Ackermann, C., Rianti, P., Vogel, E.R., Utami Atmoko, S.S., Kruetzen, M., and van Schaik C.P. 2023. Reproductive success of Bornean orangutan males: spread out in time but clustered in space. Behavioral Ecology and Sociobiology <https://doi.org/10.1007/s00265-023-03407-6>
+
+**LaBarge, LR.,** Allan, A. T. L., Berman, C. M., Hill, R. A., Margulis, S. W. 2022. Cortisol metabolites vary with environmental conditions, predation risk, and human shields in a wild primate, Cercopithecus albogularis. Hormones and Behavior. <https://pubmed.ncbi.nlm.nih.gov/35908334/>
+
+**LaBarge LR,** Evans MJ, Miller JRB, Cannataro G, Hunt C, Elbroch LM. 2022. Pumas as ecological brokers: a review of their biotic relationships. Mammal Review, <https://doi.org/10.1111/mam.12281> featured in \>15 media outlets including interviews with The Guardian, Psychology Today, and Newsweek, mention in The Washington Post, The New York Times, National Observer (Canada), Wiley Top 10% Cited Article
+
+Allan, A.T., **LaBarge, L.R.,** Howlett, C., Bailey, A.L., Jones, B., Mason, Z., Pinfield, T., Schröder, F., Whitaker, A., White, A.F., Wilkinson, H., Jill 2022. Patterns of predation and meat-eating by chacma baboons in an Afromontane environment. Folia Primatologica, 1, pp.1-24. <https://brill.com/view/journals/ijfp/aop/article-10.1163-14219980-bja10004/article-10.1163-14219980-bja10004.xml>
+
+**LaBarge, LR,** Allan, ATL, Berman, CM, Margulis, SW, & Hill, RA. 2021. Extent of threat detection depends on predator type and behavioral context in wild samango monkey groups. Behavioral Ecology & Sociobiology, <https://doi.org/10.1007/s00265-020-02959-1>
+
+**LaBarge, L. R.,** Allan, A. T. L., Berman, C. M., Margulis, S. W, & Hill RA. 2020. Reactive and pre-emptive spatial cohesion in a social primate. Animal Behaviour. <https://doi.org/10.1016/j.anbehav.2020.03.005>
+
+**LaBarge, L. R.,** Hill, R. A., Berman, C. M., Margulis, S. W., & Allan, A. T. L., 2020. Anthropogenic Influences on Primate Antipredator Behavior and Implications for Research and Conservation. American Journal of Primatology. DOI: 10.1002/ajp.23087
+
+TEACHING
+
+September 2024 Assistant: Durham University Dept. of Anthropology field course – human-primate interactions on Gibraltar
+
+April 2023 Instructor: R for Spatial Data Analysis and Movement Ecology – short course, University of Konstanz / International Max Planck Research School (IMPRS) for Quantitative Behaviour, Ecology, and Evolution
+
+January 2023 Guest Lectures: Landscapes of Fear; Social Foraging Games – University of Konstanz / International Max Planck Research School (IMPRS) for Quantitative Behaviour, Ecology, and Evolution
+
+2021 Teaching Assistant: APY 105, Introduction to Anthropology - Lectures focused on evolution/genetics (SUNY-UB)
+
+Fall & Spring 2020 Teaching Assistant: APY 108, Introduction to Archaeology (online remote). Lectured on zooarchaeology (SUNY-UB)
+
+Fall 2019 Teaching Assistant: APY 106, Introduction to Cultural Anthropology (SUNY-UB)
+
+Spring 2017 & 2018 Teaching Assistant: APY 248, Human Genetics. Lectured on gene-environment interactions and behavioural genetics (SUNY-UB)
+
+Fall 2017 Co-Instructor: APY 108, Introduction to Archaeology. Lectured on human and hominid evolution (SUNY-UB)
+
+2016 Teaching Assistant: APY 105, Introduction to Anthropology (SUNY-UB)
+
+Spring 2014 & 2015 Teaching Assistant: EFB 311, Evolutionary Biology (SUNY-ESF, Syracuse, NY, USA)
+
+Spring 2013 Tutor: Bio 151, Molecular and Cell Biology (Volunteer - Onondaga Community College, Syracuse, NY, USA)

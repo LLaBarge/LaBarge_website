@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Dr. Laura LaBarge"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: Research Interests.qmd
+        text: Research Interests
+      - href: https://github.com/LLaBarge
+        icon: github
+      - href: https://bsky.app/profile/laurarlabarge.bsky.social
+        text: BlueSky
+      - href: https://scholar.google.com/citations?user=3HXAsecAAAAJ&hl=en
+        text: Google Scholar
+      
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
